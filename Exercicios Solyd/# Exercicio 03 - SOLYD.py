@@ -1,6 +1,6 @@
-#Exercicio aula 3
-#faça um programa que solicite a idade e decida se ela esta apta a entrar no exercito
-#requisitos: maior de 18 anos, peso maior ou igual 60kg, altura maior ou igual 1.70m
+# Exercicio aula 3
+# faça um programa que solicite a idade e decida se ela esta apta a entrar no exercito
+# requisitos: maior de 18 anos, peso maior ou igual 60kg, altura maior ou igual 1.70m
 
 idade = int(input ("Insira a sua idade: "))
 

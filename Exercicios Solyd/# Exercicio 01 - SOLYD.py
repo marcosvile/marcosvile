@@ -12,4 +12,3 @@ altura = input('Insira a sua altura: ') #entrada de altura
 telefone = input('Insira o seu telefone: ') #entrada de telefone
 
 print('Colaborador: ', nome,'\nidade: ',idade,'\ntelefone: ',telefone,'\nCPF: ', CPF,'\nLogradouro: ', endereco,'\nCEP: ', CEP,'\naltura: ', altura)
-
