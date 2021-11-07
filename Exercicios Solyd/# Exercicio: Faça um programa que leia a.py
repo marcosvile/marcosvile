@@ -2,13 +2,25 @@
 # para uma festa, após isso, o programa irá perguntar o nome de todas as pessoas
 # e colocar numa lista de convidados e após isso irá imprimir todos os nomes da lista
 
-convidado1 = (input( "Insira o seu nome: ")) # input para ler e armazenar o nome na variavel
-convidado2 = (input( "Insira o seu nome: "))
-convidado3 = (input( "Insira o seu nome: "))
-convidado4 = (input( "Insira o seu nome: "))
-convidado5 = (input( "Insira o seu nome: "))
+print ("---------------------------------- ")
+print ("sistema de controle de convidados: ")
+print ("---------------------------------- ")
 
-convidados = [convidado1, convidado2, convidado3, convidado4, convidado5] # instrução para gravar 
-                                                                          # as variaveis em uma lista
+convidados = input("Insira o numero de convidados: ")
+lista = []
 
-print(convidados)
+
+i=1
+
+while i <= int(convidados):
+    convidado = input ("Insira o nome do convidado " + str(i) +": " )
+
+    lista.append(convidado)
+
+    i += 1
+
+print("\nforam convidados", convidados, "pessoas. \n ")
+
+
+for convidado in lista:
+    print(convidado,)
