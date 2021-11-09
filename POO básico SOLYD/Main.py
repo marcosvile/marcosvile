@@ -3,6 +3,7 @@
 
 from typing import ForwardRef
 from veiculo import Veiculo
+from carro import Carro, Veiculo
 
 caminhao_rosa = Veiculo('rosa', 6, 'ford', 10)
 
@@ -26,4 +27,20 @@ print("Tanque: ", carro_azul.tanque)
 carro_azul.abastecer(35)
 print("Tanque: ", carro_azul.tanque)
 
+print("#################")
 
+carro = Carro("azul", "VW", 30)
+
+
+print("Carro: ")
+print("CARRO : ")
+print("Cor: ", carro.cor)
+print("Rodas: ", carro.rodas)
+print("Marca: ", carro.marca)
+print("Tanque: ", carro.tanque)
+
+carro.abastecer(35)
+print("Tanque: ", carro.tanque)
+
+carro.abastecer(35)
+print("Tanque: ", carro.tanque)
