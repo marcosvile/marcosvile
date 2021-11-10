@@ -4,8 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/marcosvile)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/marcosvilel_a)
 
-https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/8865df18-fc52-48d5-af54-b8a4a62e547e.svg
-
+[![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/8865df18-fc52-48d5-af54-b8a4a62e547e.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/8865df18-fc52-48d5-af54-b8a4a62e547e)
 
 - About me
 
