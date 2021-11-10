@@ -10,6 +10,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcosvile&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvile)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Project: Python-SOLYD [![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/8865df18-fc52-48d5-af54-b8a4a62e547e.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/8865df18-fc52-48d5-af54-b8a4a62e547e)
 Project: marcosvile [![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/2a211212-f54c-4e9b-8ca4-f46d4d98d0b5.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/2a211212-f54c-4e9b-8ca4-f46d4d98d0b5)
