@@ -5,8 +5,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/marcosvilel_a)
 
 Project: Python-SOLYD [![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/8865df18-fc52-48d5-af54-b8a4a62e547e.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/8865df18-fc52-48d5-af54-b8a4a62e547e)
+[![wakatime](https://wakatime.com/badge/github/marcosvile/Python-SOLYD.svg)](https://wakatime.com/badge/github/marcosvile/Python-SOLYD)
+
 Project: marcosvile [![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/2a211212-f54c-4e9b-8ca4-f46d4d98d0b5.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/2a211212-f54c-4e9b-8ca4-f46d4d98d0b5)
+[![wakatime](https://wakatime.com/badge/github/marcosvile/marcosvile.svg)](https://wakatime.com/badge/github/marcosvile/marcosvile)
+
 Project: Linux-Tips [![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/67636464-605d-4416-ae63-df551fdfc8d5.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/67636464-605d-4416-ae63-df551fdfc8d5)
+[![wakatime](https://wakatime.com/badge/github/marcosvile/linux-tips.svg)](https://wakatime.com/badge/github/marcosvile/linux-tips)
 
 
 - About me
