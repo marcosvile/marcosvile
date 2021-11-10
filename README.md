@@ -8,7 +8,7 @@ Project: Python-SOLYD [![wakatime](https://wakatime.com/badge/user/2c68ed23-765c
 Project: marcosvile [![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/2a211212-f54c-4e9b-8ca4-f46d4d98d0b5.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/2a211212-f54c-4e9b-8ca4-f46d4d98d0b5)
 Project: Linux-Tips [![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/67636464-605d-4416-ae63-df551fdfc8d5.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/67636464-605d-4416-ae63-df551fdfc8d5)
 
-<figure><embed src="https://wakatime.com/share/@2c68ed23-765c-40e6-88d9-3b49ab1bdf82/d2375acf-e25a-45ef-8ac3-c1d3448e72ea.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2c68ed23-765c-40e6-88d9-3b49ab1bdf82/120f413f-7444-406c-bd8e-b7cf8db79899.png" /></a>
 
 - About me
 
