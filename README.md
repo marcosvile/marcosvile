@@ -37,4 +37,4 @@ And now, beginner in the dev world, learning about programming logic and python.
 
 
 Fedora 34 LXQt
-Lenovo G400s i3 12gb RAM 
+Lenovo G400 i3 12gb RAM 
