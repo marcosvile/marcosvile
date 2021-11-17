@@ -1,8 +1,24 @@
-- 👋 Olá, eu sou o @marcosvile
+# 👋 hello, i'm the @marcosvile
+
+## Welcome to my profile! 🌎
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/marcosvile)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/marcosvile)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/marcosvilel_a)
+![Profile views](https://gpvc.arturio.dev/marcosvile)
+
+Project: Python-SOLYD <a href="https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/8865df18-fc52-48d5-af54-b8a4a62e547e"><img src="https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/8865df18-fc52-48d5-af54-b8a4a62e547e.svg" alt="wakatime"></a>
+Project: marcosvile [![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/2a211212-f54c-4e9b-8ca4-f46d4d98d0b5.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/2a211212-f54c-4e9b-8ca4-f46d4d98d0b5)
+Project: Linux-Tips [![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/67636464-605d-4416-ae63-df551fdfc8d5.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/67636464-605d-4416-ae63-df551fdfc8d5)
+
+# follow my performance 💪
+
+![GitHub metrics](https://metrics.lecoq.io/marcosvile) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosvile&show_icons=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=marcosvile)  
+
+![](https://media2.giphy.com/media/AOSwwqVjNZlDO/giphy.gif?cid=790b7611f388a8efa48c221486b0e1ddd1ca6bade32ff62e&rid=giphy.gif&ct=g)
 
 - About me
 
@@ -21,4 +37,4 @@ And now, beginner in the dev world, learning about programming logic and python.
 
 
 Fedora 34 LXQt
-Lenovo G400s i3 12gb RAM 
+Lenovo G400 i3 12gb RAM 
