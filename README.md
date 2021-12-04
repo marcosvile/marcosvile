@@ -8,7 +8,7 @@
 ![Profile views](https://gpvc.arturio.dev/marcosvile)
 
 Project: Python-SOLYD <a href="https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/8865df18-fc52-48d5-af54-b8a4a62e547e"><img src="https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/8865df18-fc52-48d5-af54-b8a4a62e547e.svg" alt="wakatime"></a>
-Project: P [![wakatime](https://wakatime.com/badge/github/marcosvile/DevOpsLab-HelloWorld.svg)](https://wakatime.com/badge/github/marcosvile/DevOpsLab-HelloWorld)
+Project: Guia do DEV on Heroku [![wakatime](https://wakatime.com/badge/github/marcosvile/DevOpsLab-HelloWorld.svg)](https://wakatime.com/badge/github/marcosvile/DevOpsLab-HelloWorld)
 
 # follow my performance 💪
 
