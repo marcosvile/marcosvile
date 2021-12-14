@@ -12,8 +12,6 @@ Project: Guia do DEV on Heroku [![wakatime](https://wakatime.com/badge/github/ma
 
 # follow my performance 💪
 
-![GitHub metrics](https://metrics.lecoq.io/marcosvile) 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosvile&show_icons=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=marcosvile)  
 
