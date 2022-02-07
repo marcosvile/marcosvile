@@ -28,5 +28,5 @@ And now, beginner in the dev world, learning about programming logic and python.
 
 
 
-Fedora 34 LXQt
+Fedora 35 Workstation
 Lenovo G400 i3 12gb RAM 
