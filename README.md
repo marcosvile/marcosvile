@@ -1,32 +1,14 @@
-# 👋 hello, i'm the @marcosvile
+<h1> Marcos Antonio Vilela Teixeira 👨‍💻 </h1>
 
-## Welcome to my profile! 🌎
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/marcosvile)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/marcosvile)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/marcosvilel_a)
 ![Profile views](https://gpvc.arturio.dev/marcosvile)
 
-[![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/68d57107-a0a5-4fc6-8f8a-53114d69ffbc.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/68d57107-a0a5-4fc6-8f8a-53114d69ffbc)
-
-# follow my performance 💪
+<h3> Faça sobre #ti, #linux, #redes e #infraestrutura </h3> 
 
 
-- About me
+Profissional com 5 anos de experiência na área de TI, com conhecimentos em sistemas Linux, Docker, redes e cloud AWS, GCP e AZURE. Tenho também conhecimentos básicos em python, html e css, desenvolvimento com wordpress e integração com cloudflare. Práticas de desenvolvimento ágil e integração continua CI/CD. Conhecimento em versionamento com git e deploy com Docker-Compose e github actions.
 
-I have 6 years of experience in the area of information technology, working as a technician in electronics, computing and CCTV. I have proficiency in level 1 and 2 support, in addition to intermediate knowledge of computing, network infrastructure, structured cabling, network configuration, telephony. Basic certificate in MikroTik and Scrum Fundamentals routers.
+Experiência com suporte nível 1 e 2, além de conhecimento intermediário de infraestrutura de rede, cabeamento estruturado, configuração de rede e telefonia.
 
-Working with the administration of data network projects, TCP/IP and PON/GPON and structured cabling, organization and planning of infrastructure activities, Implementation of containerized systems with docker, such as zabbix, grafana and portainer, maintenance and quality control of technical activities. Control of IT assets, as well as care of equipment, preventive and corrective maintenance, working in companies such as Novo Nordisk, Lafargeholcim, Alpargatas and Somai Alimentos.
-
-And now, beginner in the dev world, learning about programming logic and python.
-
-
-- 👀 I’m interested in Linux, Devlopment, Offensive Security, Python and Data Analysis...
-- 🌱 I’m currently learning Python and Linux...
-- 👓 I’m looking to collaborate on nothing at the moment...
-- 📫 How to reach me marcosvilelateixeira@gmail.com...
-
-
-
-Fedora 35 Workstation
-Lenovo G400 i3 12gb RAM 
+Atuando com administração de projetos de rede de dados, TCP/IP e PON/GPON e cabeamento estruturado, organização e planejamento das atividades de infraestrutura, Implantação de sistemas conteinerizados com docker, como zabbix, grafana e portainer, manutenção e controle de qualidade das atividades técnicas. Controle de ativos de TI, bem como cuidados com equipamentos, manutenções preventivas e corretivas, atuando em empresas como Novo Nordisk, Lafargeholcim, Alpargatas e Somai Alimentos e Astral Pães.
