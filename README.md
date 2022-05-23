@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/marcosvilel_a)
 ![Profile views](https://gpvc.arturio.dev/marcosvile)
 
-<h3> Faça sobre #ti, #linux, #redes e #infraestrutura </h3> 
+<h3> Fala sobre #ti, #linux, #redes e #infraestrutura </h3> 
 
 
 Profissional com 5 anos de experiência na área de TI, com conhecimentos em sistemas Linux, Docker, redes e cloud AWS, GCP e AZURE. Tenho também conhecimentos básicos em python, html e css, desenvolvimento com wordpress e integração com cloudflare. Práticas de desenvolvimento ágil e integração continua CI/CD. Conhecimento em versionamento com git e deploy com Docker-Compose e github actions.
