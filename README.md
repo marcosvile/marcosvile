@@ -4,6 +4,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/marcosvilel_a)
 ![Profile views](https://gpvc.arturio.dev/marcosvile)
 
+PROJETO LISTA DE COMPRAS EM ANDAMENTO:
+
+[![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/e006cc4c-3fc9-4722-a70c-f26d245794e4.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/e006cc4c-3fc9-4722-a70c-f26d245794e4)
+
 <h3> Fala sobre #ti, #linux, #redes e #infraestrutura </h3> 
 
 
