@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/marcosvilel_a)
 ![Profile views](https://gpvc.arturio.dev/marcosvile)
 
-PROJETO LISTA DE COMPRAS EM ANDAMENTO:
+[PROJETO LISTA DE COMPRAS EM ANDAMENTO:](https://github.com/marcosvile/lista-de-compras)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/marcosvile/lista-de-compras) [![wakatime](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/e006cc4c-3fc9-4722-a70c-f26d245794e4.svg)](https://wakatime.com/badge/user/2c68ed23-765c-40e6-88d9-3b49ab1bdf82/project/e006cc4c-3fc9-4722-a70c-f26d245794e4)
 
@@ -15,7 +15,7 @@ Experiência com suporte nível 1 e 2, além de conhecimento intermediário de i
 
 Atuando com administração de projetos de rede de dados, TCP/IP e PON/GPON e cabeamento estruturado, organização e planejamento das atividades de infraestrutura, Implantação de sistemas conteinerizados com docker, como zabbix, grafana e portainer, manutenção e controle de qualidade das atividades técnicas. Controle de ativos de TI, bem como cuidados com equipamentos, manutenções preventivas e corretivas, atuando em empresas como Novo Nordisk, Lafargeholcim, Alpargatas e Somai Alimentos e Astral Pães.
 
-PROJETOS – Portifólio disponível em <href> https://marcosvile.herokuapp.com</href>
+PROJETOS – Portifólio disponível em <href> https://marcosvile.ninja/ </href>
 
 PIPELINE DEVOPS:
 Criação de uma Pipeline DevOps com CI/CD para entrega de um produto final (site), hospedado na plataforma Cloud Heroku, integrado com o GitHub. O projeto explora os comandos básicos do Git, conhecimento e exploração da plataforma Heroku e deploy automático com o GitHub.
