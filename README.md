@@ -10,15 +10,26 @@
 Graduado em Análise e Desenvolvimento de Sistemas, com experiência em Linux, Docker, Docker Compose, redes e AWS. Possuo certificação AWS Cloud Practitioner e habilidades em Python, HTML, CSS, Cloudflare, WordPress, GitLab e scripting em Bash.
 
 Habilidades de Infraestrutura/Cloud:
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,wordpress,azure,linux,bash,mysql,docker)](https://skillicons.dev)
+
 Nos últimos três anos, concentrei-me em projetos multicloud com os principais provedores do mercado, aplicando práticas de SRE/Devops e segurança da informação em ambientes Linux. Destaco experiências como:
 
 - IaC com Ansible e Terraform: Implementação de Infraestrutura como Código (IaC) utilizando Ansible e Terraform para automação e gerenciamento de configuração.
 
+[![My Skills](https://skillicons.dev/icons?i=terraform,anisble)](https://skillicons.dev)
+
 - CI/CD:  Experiência com GitHub Actions, Git e Docker-Compose para integração contínua e entrega (CI/CD), e GitLab CI e Ansible para automatização de tarefas de deploy de aplicações WordPress.
+
+[![My Skills](https://skillicons.dev/icons?i=git,docker,git,githubactions&perline=2)](https://skillicons.dev)
 
 - Nginx, Firewalls, IDS/IPS: Configuração e administração de servidores Nginx, firewalls, IDS/IPS para garantir segurança e disponibilidade dos serviços.
 
+[![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
+
 - Logs e Monitoramento: Configuração e uso de ferramentas de monitoramento como Grafana e ELK Stack para análise de logs e monitoramento proativo de sistemas.
+
+[![My Skills](https://skillicons.dev/icons?i=prometheus,grafana&perline=2)](https://skillicons.dev)
 
 - Technical Writing: Habilidade em escrever documentação técnica clara e precisa para facilitar o entendimento e a colaboração entre equipes.
 
@@ -29,5 +40,3 @@ Trabalhei com metodologias ágeis na gestão de projetos, focando na entrega con
 
 Desenvolvimento:
 Tenho experiência em desenvolvimento e gestão de aplicações conteinerizadas com Docker e Docker Compose, facilitando a escalabilidade e o gerenciamento eficiente da infraestrutura.
-
-Confira meu GitHub para ver minhas experiências mais recentes. Estou comprometido em aprender continuamente e aplicar meu conhecimento para alcançar resultados eficazes na área de SRE/DevOps.
