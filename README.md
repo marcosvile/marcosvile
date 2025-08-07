@@ -1,39 +1,76 @@
 <h1> Marcos Vilela </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/marcosvile)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/marcosvilel_a)
-![GitHub repo size](https://img.shields.io/github/repo-size/marcosvile/lista-de-compras)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosvile)](https://www.linkedin.com/in/marcosvile)
+[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/marcos_vile)](https://dev.to/marcos_vile)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosvilelateixeira@gmail.com)](mailto:marcosvilelateixeira@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/marcos_vile)](https://x.com/marcosvilel_a)
 
-Graduado em Análise e Desenvolvimento de Sistemas, com experiência em Linux, Docker, redes e AWS. Possuo certificação AWS Cloud Practitioner e habilidades em Python, Ansible, HTML e CSS, Cloudflare, WordPress, GitLab e scripting em Bash.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-Habilidades de Infraestrutura/Cloud:
 
-![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/87045821/199131103-ddbc2675-80d0-4608-9542-946e668e9279.png)
+Graduado em Análise e Desenvolvimento de Sistemas, com experiência em Linux, Docker, redes e cloud (AWS/multi-cloud), com foco em SRE, DevOps e segurança. Atuação com IaC (Ansible), CI/CD (GitHub Actions, GitLab CI), monitoramento (Grafana, New Relic), hardening, PHP, NGINX e contêineres. Colaboro com projetos open source e compartilho conteúdo técnico com foco em boas práticas e confiabilidade.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,wordpress,azure,linux,bash,mysql,docker)](https://skillicons.dev)
+## 🎯 Competências Técnicas
 
-Nos últimos três anos, concentrei-me em projetos multicloud com os principais provedores do mercado, aplicando práticas de SRE/Devops e segurança da informação em ambientes Linux. Destaco experiências como:
+### Cloud & DevOps
 
-- IaC com Ansible e Terraform: Implementação de Infraestrutura como Código (IaC) utilizando Ansible e Terraform para automação e gerenciamento de configuração.
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,azure,ansible,terraform,gitlab,githubactions)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=terraform,anisble)](https://skillicons.dev)
+- **Cloud Computing**: AWS (multi-cloud), VPS
+- **Containerização**: Docker, Docker Compose
+- **IaC**: Ansible, Terraform
+- **CI/CD**: GitLab CI, GitHub Actions
 
-- CI/CD:  Experiência com GitHub Actions, Git e Docker-Compose para integração contínua e entrega (CI/CD), e GitLab CI e Ansible para automatização de tarefas de deploy de aplicações WordPress.
+### SRE & Monitoramento
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,githubactions&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prometheus,grafana,nginx,cloudflare)](https://skillicons.dev)
 
-- Nginx, Firewalls, IDS/IPS: Configuração e administração de servidores Nginx, firewalls, IDS/IPS para garantir segurança e disponibilidade dos serviços.
+- **Monitoramento**: Grafana, New Relic, Zabbix, Prometheus
+- **Observabilidade**: Logs, métricas e traces
+- **Webserver**: NGINX, configuração e hardening
+- **Segurança**: WAF, Cloudflare, SIEM (Graylog, GravityZone)
 
-[![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
+### Desenvolvimento & Infraestrutura
 
-- Logs e Monitoramento: Configuração e uso de ferramentas de monitoramento como Grafana e ELK Stack para análise de logs e monitoramento proativo de sistemas.
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,php,wordpress,mysql,github,py)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=prometheus,grafana&perline=2)](https://skillicons.dev)
+- **Sistemas Operacionais**: Linux (administração avançada)
+- **Scripting**: Bash, automação
+- **Controle de Versão**: Git
+- **Desenvolvimento**: PHP, WordPress
+- **Banco de Dados**: MariaDB, MySQL
+- **Redes**: TCP/IP, DNS, PON/GPON
 
-- Technical Writing: Habilidade em escrever documentação técnica clara e precisa para facilitar o entendimento e a colaboração entre equipes.
+## 🏆 Certificações
 
-- Metodologia Lean: Aplicação de princípios Lean para melhorar eficiência e reduzir desperdícios em processos de desenvolvimento e infraestrutura.
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/87045821/199131103-ddbc2675-80d0-4608-9542-946e668e9279.png)
 
-- Metodologias Ágeis e Gestão: Trabalhei com metodologias ágeis na gestão de projetos, focando na entrega contínua e na automação de processos.
+- **AWS Certified Cloud Practitioner**
+- **Linux Essentials**
+- **Formação SRE - Alura**
+- **Formação DevOps - Alura**
 
-- Desenvolvimento: Tenho experiência em desenvolvimento e gestão de aplicações conteinerizadas com Docker e Docker Compose, facilitando a escalabilidade e o gerenciamento eficiente da infraestrutura.
+## 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas**  
+*Wyden Educacional, Campus Unifavip* | JAN 2020 - AGO 2022
+
+## 🎤 Projetos e Comunidade
+
+### Palestrante - Escola de Verão 2025
+
+Palestrante sobre IaC com Ansible na Escola de Verão 2025.
+
+### I Meetup DevOps/SRE Montes Claros
+
+Organizador e participante do I Meetup DevOps/SRE Montes Claros.
+
+## 📝 Conteúdo Técnico
+
+Compartilho conteúdo focado em boas práticas e confiabilidade através da plataforma [dev.to](https://dev.to/marcos_vile), abordando temas como:
+
+- Práticas de SRE e DevOps
+- Infraestrutura como Código
+- Segurança em ambientes cloud
+- Automação e monitoramento
+- Desenvolvimento de scripts e ferramentas
